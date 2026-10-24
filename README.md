@@ -3,7 +3,7 @@
 <p align="center">Back up GitHub repositories with a single click. Supports both light and dark modes.<p>
 
 <p align="center">
-  
+  <img width="480" alt="Preview" src="https://github.com/user-attachments/assets/ed5a0e1e-28ff-495a-90d7-4798cc9d3668" />
 </p>
 
 ## How to use
