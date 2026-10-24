@@ -53,7 +53,7 @@ Data loss may occur due to
 
 Download [ghsync_gui.py](ghsync_gui.py) file from this repo.
 
-## Step 2: Install dependencies.
+### Step 2: Install dependencies.
 
 After installing Python, run the following command:
 
